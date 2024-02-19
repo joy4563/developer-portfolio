@@ -1,3 +1,6 @@
+body{
+  margin: auto;
+}
 .header {
   background: #fff8f3;
   background-image: url(../images/header_bg.png), url(../images/developer.png);
@@ -17,6 +20,7 @@ nav {
 nav li {
   list-style: none;
   margin-right: 50px;
+  
 }
 nav ul {
   display: flex;
